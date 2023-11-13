@@ -6,7 +6,7 @@
 
 Мне 36 лет и я начинающий программист.
 
-Учусь на курсе Нетологии *<code> ["Fullstack-разработчик на Python"](https://netology.ru/programs/fullstack-python-dev) </code>*
+Учусь на курсе Нетологии ["Fullstack-разработчик на Python"](https://netology.ru/programs/fullstack-python-dev)
 
 Сейчас я только начал осваиваться в IT направлении, но уверен, что в ближайшие 2 года я стану профессионалом. :smirk:
 
